@@ -3,7 +3,7 @@ public class Houses {
 	static String people;
 	static int number;
 	static String items;
-
+//ading a comment to test GIT
 	public static void main(String[] args){
 		people=("Ansh, Sanjay, Neel, Ninita");
 		number=4;
@@ -18,7 +18,7 @@ public class Houses {
 		
 		System.out.println("Ansh went to sleep in his comfy bed in his bedroom");
 		System.out.println("Their are " + calculator() + "people");
-		
+		System.out.println("Testing GIT PUSH");
 	}
 
 	public static String calculator(){
